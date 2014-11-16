@@ -1,0 +1,28 @@
+{
+  "name": "constance",
+  "version": "0.0.1",
+  "description": "constants with prefix and postfix options",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrejewski/constance.git"
+  },
+  "keywords": [
+    "constants",
+    "keymirror",
+    "prefix",
+    "postfix"
+  ],
+  "author": "Chris Andrejewski <christopher.andrejewski@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejewski/constance/issues"
+  },
+  "homepage": "https://github.com/andrejewski/constance",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
+}
