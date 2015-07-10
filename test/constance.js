@@ -1,6 +1,6 @@
 
-var assert = require('assert'),
-	constance = require('../');
+var assert = require('assert');
+var constance = require('..');
 
 describe('constance()', function() {
 	it('should key mirror for a plain object', function() {
